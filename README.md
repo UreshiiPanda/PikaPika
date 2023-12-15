@@ -5,7 +5,8 @@ A short Pikachu battle simulation written in C++ &amp; OpenGL
 
 <a name="readme-top"></a>
 
-<!-- kanjime gif -->
+<!-- PikaPika gif -->
+![pika](https://github.com/UreshiiPanda/PikaPika/assets/39992411/1f683a54-c4af-4532-8e24-ce30a295346f)
 
 
 
